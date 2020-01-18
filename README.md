@@ -1,3 +1,5 @@
+_source - ML Trainings - T-01/18/2020 - https://youtu.be/7EHqDBq2E7c
+
 # wildfire-ai
 The history of 3rd place in wildfire ai competition
 
